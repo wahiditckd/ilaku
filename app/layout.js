@@ -2,7 +2,7 @@
 import CatalogHeader from "@/components/header/CatalogHeader";
 import "./globals.css";
 import CatalogFooter from "@/components/footer/CatalogFooter";
-import BaseContent from "@/components/global/Basecontent";
+import BaseContent from "@/components/global/BaseContent";
 
 
 export default function RootLayout({ children }) {
